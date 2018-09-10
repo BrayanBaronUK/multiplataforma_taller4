@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">El Clima</string>
+    <string name="hello_world">¡Hola mundo!</string>
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miercoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sabado</string>
+    <string name="sunday">Domingo</string>
+    <string name="sunny">soleado</string>
+    <string name="mists">Brumas</string>
+    <string name="rains">Lluvias</string>
+    <string name="cloudy">Nublado</string>
+    <string name="action_settings">Ajustes</string>
+
+
+</resources>
